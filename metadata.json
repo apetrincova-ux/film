@@ -1,0 +1,8 @@
+{
+  "name": "Cinema prerabač",
+  "description": "A high-end AI-powered movie restoration and enhancement platform that uses Gemini models to denoise, upscale, and revitalize old cinematic footage.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
